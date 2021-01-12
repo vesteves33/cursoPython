@@ -1,0 +1,5 @@
+print('Teste cores')
+print('\033[1;32;47mOlá mundo!\033[m')
+print('\033[7;36;42mOlá mundo!\033[m')
+print('\033[4;31;44mOlá mundo!\033[m')
+print('\033[0;30;40mOlá mundo!\033[m')
