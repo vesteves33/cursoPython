@@ -1,8 +1,10 @@
 numero = int(input('Diga um número e veja seu fatorial: '))
 fatorial = 1
-contador = numero
+
+print(f'Calculando {numero}! = ', end='')
 while numero > 0:
     fatorial *= numero
+    print(f'{numero}',end='')
+    print(' x ' if numero > 1 else ' = ', end='')    
     numero -=1
-
-print('O resultado de {}! é = {}'.format(contador, fatorial))
+print(f'{fatorial} ')
