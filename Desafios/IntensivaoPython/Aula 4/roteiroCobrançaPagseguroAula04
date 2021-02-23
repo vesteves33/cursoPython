@@ -1,0 +1,15 @@
+Etapas manuais do processo pagseguro
+
+1) Abra o site do Pagseguro, faça login e ir para pagina de cobrança.
+
+2) Preencha as informações do cliente e clique em revisar antes de enviar.
+2.1) Confirmar envio.
+
+3) Criar Script python:
+    Paulo
+    Devendo 609
+    email : vesteves33+7@gmail.com
+
+4) Usando o selenium e chromedriver
+
+5) 
